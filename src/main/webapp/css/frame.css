@@ -1,0 +1,19 @@
+body{
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+table{
+	font-size:14px;
+}
+
+#menus-table td,#privilege-table td,#role-table td,#department-table td,#group-table td,#privilegeButton-table td,#user-table td{
+	vertical-align: middle;
+}
+
+.btn-default{
+	height:34px;
+}
+
+.access-control{
+	display: none !important;
+}
